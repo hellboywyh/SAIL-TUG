@@ -11,9 +11,8 @@ The 404 TUG videos are recored in several different places including hospitals, 
 ## Downloads
 [Original 404 videos](link for videos)
 [Images by video downsampling](link for images)
-[Annotation:Key points](link for annotation)
-[Annotation:Gait parameters](link for gait parameters)
-[Annotation:Gait abnornal detection](link for gait abnormal detection)
+[Annotation:Key points](link for key points' annotation)
+[Annotation:Gait parameters](link for labels of gait parameters and abnormal detection)
 
 ## Citation
 ```
