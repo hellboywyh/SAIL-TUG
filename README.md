@@ -16,9 +16,11 @@ The 404 TUG videos are recored in several different places including hospitals, 
 
 ## Example
 * Video example  
-<video src="./examples/026_color.mp4" width="800px" height="600px" controls="controls"></video>  
+
+  <video src="examples/026_color.mp4"></video>
 * Image example  
-<img src="./exmaples/026_color-414.jpg" align=center></img> 
+
+  ![026_color-414](README.assets/026_color-414.jpg)
 
 ## Citation
 ```
