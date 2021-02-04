@@ -16,10 +16,7 @@ The 404 TUG videos are recored in several different places including hospitals, 
 
 ## Example
 * Video example  
-  <video id="video" controls="" preload="none" poster="https://github.com/hellboywyh/SAIL-TUG/blob/main/examples/026_color-414.jpg">
-      <source id="mp4" src="https://github.com/hellboywyh/SAIL-TUG/blob/main/examples/026_color.mp4" type="video/mp4">
-      <p>Your user agent does not support the HTML5 Video element.</p>
-   </video>
+  ![test](https://s31.aconvert.com/convert/p3r68-cdx67/7n11a-ydmp6.gif)
 
 * Image example  
 
