@@ -9,10 +9,10 @@ The dataset contains 404 TUG videos. By downsampling, 38,098 images is annotated
 The 404 TUG videos are recored in several different places including hospitals, communities and nursing homes. And the gait of the subjects also varied widely.
 
 ## Downloads
-[Original 404 videos](https://drive.google.com/file/d/1oX0PrtOPAGcuX9Hg0ZLWcS1EuKpCOXcE/view?usp=sharing)
-[Images by video downsampling](https://drive.google.com/file/d/1zBYo2Q9LYc7T5P3ltJw4zui87A2Zx7M-/view?usp=sharing)
-[Annotation:Key points](https://drive.google.com/file/d/141xlBr11TVYQ38Dl8mvGjEpIakRNIQ2d/view?usp=sharing)
-[Annotation:Gait parameters and abnormal detection](https://drive.google.com/file/d/1Xzrgkezc5NdCrjYNWprW3hpoPZXeXBTo/view?usp=sharing)
+* [Original 404 videos](https://drive.google.com/file/d/1oX0PrtOPAGcuX9Hg0ZLWcS1EuKpCOXcE/view?usp=sharing)  
+* [Images by video downsampling](https://drive.google.com/file/d/1zBYo2Q9LYc7T5P3ltJw4zui87A2Zx7M-/view?usp=sharing)  
+* [Annotation:Key points](https://drive.google.com/file/d/141xlBr11TVYQ38Dl8mvGjEpIakRNIQ2d/view?usp=sharing)  
+* [Annotation:Gait parameters and abnormal detection](https://drive.google.com/file/d/1Xzrgkezc5NdCrjYNWprW3hpoPZXeXBTo/view?usp=sharing)  
 
 ## Example
 * Video example  
