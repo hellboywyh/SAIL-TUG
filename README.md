@@ -17,10 +17,10 @@ The 404 TUG videos are recored in several different places including hospitals, 
 ## Example
 * Video example  
 
-  <video src="examples/026_color.mp4"></video>
+  <video src="https://github.com/hellboywyh/SAIL-TUG/blob/main/examples/026_color.mp4"></video>
 * Image example  
 
-  ![026_color-414](examples/026_color-414.jpg)
+  ![026_color-414](https://github.com/hellboywyh/SAIL-TUG/blob/main/examples/026_color-414.jpg)
 
 ## Citation
 ```
