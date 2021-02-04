@@ -15,10 +15,10 @@ The 404 TUG videos are recored in several different places including hospitals, 
 [Annotation:Gait parameters and abnormal detection](https://drive.google.com/file/d/1Xzrgkezc5NdCrjYNWprW3hpoPZXeXBTo/view?usp=sharing)
 
 ## Example
-* Video example
-<video src="./example/026_color.mp4" width="800px" height="600px" controls="controls"></video>
-* Image example
-<img src="./exmaple/026_color-414.jpg" width = "200" height = "300" alt="" align=center />
+* Video example  
+<video src="./example/026_color.mp4" width="800px" height="600px" controls="controls"></video>  
+* Image example  
+<img src="./exmaple/026_color-414.jpg" width = "200" height = "300" alt="" align=center></img> 
 
 ## Citation
 ```
