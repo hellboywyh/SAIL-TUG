@@ -24,6 +24,8 @@ The 404 TUG videos are recored in several different places including hospitals, 
 
 * Annotation points
 
+  Annotation format:
+
   ```
   {
       "info": {'year': 2019,
@@ -40,15 +42,19 @@ The 404 TUG videos are recored in several different places including hospitals, 
   }
   ```
 
+  Key points visualization example:
+
   <img src="README.assets/1614306844123.png"  style="width: 600px;" />
 
-  | No.        | 0      | 1       | 2      | 3      | 4    | 5         | 6         |
-  | ---------- | ------ | ------- | ------ | ------ | ---- | --------- | --------- |
-  | Key points | Nose   | LEye    | REye   | LEar   | REar | LShoulder | RShoulder |
-  | No.        | 7      | 8       | 9      | 10     | 11   | 12        | 13        |
-  | Key points | LElbow | REllbow | LWrist | RWrist | LHip | RHip      | LKnee     |
-  | No.        | 14     | 15      | 16     |        |      |           |           |
-  | Key points | RKnee  | LAnkle  | RAnkle |        |      |           |           |
+  Key points list:
+
+  | No.        | 0      | 1      | 2      | 3      | 4    | 5         | 6         |
+  | ---------- | ------ | ------ | ------ | ------ | ---- | --------- | --------- |
+  | Key points | Nose   | LEye   | REye   | LEar   | REar | LShoulder | RShoulder |
+  | No.        | 7      | 8      | 9      | 10     | 11   | 12        | 13        |
+  | Key points | LElbow | RElbow | LWrist | RWrist | LHip | RHip      | LKnee     |
+  | No.        | 14     | 15     | 16     |        |      |           |           |
+  | Key points | RKnee  | LAnkle | RAnkle |        |      |           |           |
 
   **Note**: $LEye$ means left eye and the same for other joints.
 
@@ -57,6 +63,8 @@ The 404 TUG videos are recored in several different places including hospitals, 
   These are video-level annotations which means every each video corresponds a set of parameters. And there are 404 sets in this dataset.
 
   ![1614306803593](README.assets/1614306803593.png)
+
+  Two sets of annotation example:
 
   ![1614307335767](README.assets/1614307335767.png)
 
