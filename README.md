@@ -16,7 +16,7 @@ The 404 TUG videos are recored in several different places including hospitals, 
 
 ## Example
 * Video example  
-  ![test](https://s31.aconvert.com/convert/p3r68-cdx67/7n11a-ydmp6.gif)
+  ![026_color](https://github.com/hellboywyh/SAIL-TUG/blob/main/examples/026_color.gif)
 
 * Image example  
 
