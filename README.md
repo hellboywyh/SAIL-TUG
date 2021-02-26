@@ -22,7 +22,48 @@ The 404 TUG videos are recored in several different places including hospitals, 
 
   ![026_color-414](https://github.com/hellboywyh/SAIL-TUG/blob/main/examples/026_color-414.jpg)
 
+* Annotation points
+
+  ```
+  {
+      "info": {'year': 2019,
+               'version': 0.1,
+               'description': None,
+               'contributor': 'Yanhong Wang',
+               'url': None,
+               'date_created': '2019-05-29'},
+      "licenses": {'url': 'http://creativecommons.org/licenses/by-nc-sa/2.0/',
+    'name': 'Attribution-NonCommercial-ShareAlike License'},
+      "imgname": [],  #imgname.shape:(30077, 16)
+      "bndbox": [],  #bndbox.shape:(30077, 1, 4)
+      "part": []   #parts.shape:(30077, 17, 2)
+  }
+  ```
+
+  <img src="README.assets/1614306844123.png"  style="width: 600px;" />
+
+  | No.        | 0      | 1       | 2      | 3      | 4    | 5         | 6         |
+  | ---------- | ------ | ------- | ------ | ------ | ---- | --------- | --------- |
+  | Key points | Nose   | LEye    | REye   | LEar   | REar | LShoulder | RShoulder |
+  | No.        | 7      | 8       | 9      | 10     | 11   | 12        | 13        |
+  | Key points | LElbow | REllbow | LWrist | RWrist | LHip | RHip      | LKnee     |
+  | No.        | 14     | 15      | 16     |        |      |           |           |
+  | Key points | RKnee  | LAnkle  | RAnkle |        |      |           |           |
+
+  **Note**: $LEye$ means left eye and the same for other joints.
+
+* Gait parameters annotation:
+
+  These are video-level annotations which means every each video corresponds a set of parameters. And there are 404 sets in this dataset.
+
+  ![1614306803593](README.assets/1614306803593.png)
+
+  ![1614307335767](README.assets/1614307335767.png)
+
+  **Note**: The parameters in Table III are not completely manually tagged because of resource factors, which has little inference to the experiments.
+
 ## Citation
+
 ```
 {
 @article{SAIL...,
