@@ -82,4 +82,4 @@ url          = {}
 }
 ```
 
-Please also [email](yhwang18@fudan.edu.cn) us with the title of your paper or work on the dataset.
+Please also email(yhwang18@fudan.edu.cn) us with the title of your paper or work on the dataset.
