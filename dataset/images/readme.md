@@ -1,1 +1,1 @@
-Put images here
+Put images here.
